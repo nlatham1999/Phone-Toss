@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone Catch</string>
+    <string name="location_text">"Latitude: %1$.10f \n Longitude: %2$.10f\n Altitude: %3$.10f\n Accuracy: %4$.10f\n Timestamp: %5$tr"</string>
+</resources>
